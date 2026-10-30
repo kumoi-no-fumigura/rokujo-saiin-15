@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rokujo-saiin-15",
  "yomi": "ろくじょうさいいんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "未詳",
+  "author": "主催 禖子内親王（六条斎院）",
+  "desc": "六条斎院禖子内親王の家の歌合の一つ。原本に年月日が無く、どの回にあたるかは推定にとどまる。八月の題として、鈴虫・松虫・きりぎりす・小鷹狩・月・雁・駒迎・擣衣・霧などを、歌人10人が詠む。"
+ },
  "editions": [
   {
    "pid": "1128193",
